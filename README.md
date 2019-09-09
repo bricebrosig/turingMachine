@@ -11,10 +11,9 @@ This program emulates a turing machine similar to the brainfuck programming lang
 * put a value in a cell
 * print a value from a cell
 
+It was an assignment for my programming languages class at university.
+
 ## running the program
 
 To run use the latest python version. In your terminal, in the directory where the python script is, run "python3 main.py". 
 
-## Contact
-
-If you have **any** problems running please feel free to email me at bricebroisg@my.unt.edu
